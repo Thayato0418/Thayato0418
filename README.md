@@ -16,3 +16,18 @@ Here are some ideas to get you started:
 -->
 
 ![](https://raw.githubusercontent.com/Thayato0418/Thayato0418/output/github-contribution-grid-snake.svg)
+
+<p align="left">
+  <a href="https://github.com/Thayato0418">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Thayato0418" />
+  </a>
+  <a href="https://github.com/Thayato0418">
+    <img height="20" src="https://img.shields.io/github/followers/Thayato0418?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/t_h_net">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/t_h_net/posts.svg" />
+  </a>
+  <a href="http://qiita.com/t_h_net">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/t_h_net/contributions.svg" />
+  </a>
+</p>
