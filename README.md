@@ -31,3 +31,13 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/t_h_net/contributions.svg" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thayato0418&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thayato0418&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thayato0418&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thayato0418&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thayato0418&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Thayato0418&theme=gruvbox)
